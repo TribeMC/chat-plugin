@@ -1,0 +1,16 @@
+#Soll der Chat Aktiviert sein?
+Aktiviert: true
+#Distance wieviele Blöcke soll der Chat zu lesen sein?
+Distance: 0
+#Soll MSG erlaubt sein?
+MSG: true
+#Verbotene Wörter
+Bose:
+  - hurensohn
+  - fotze
+  - flightman
+  - kevin
+  - spast
+  - mongo
+  - wixer
+  - wixxer

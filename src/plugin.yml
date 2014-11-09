@@ -1,0 +1,21 @@
+name: Chat
+version: 1.0
+main: ChatV3.main
+description: Chat Plugin fuer Tribe
+author: V3lop5
+permissions:
+  chat.chat:
+    default: true
+    description: Perm zum Chatten
+  chat.bypass:
+    default: op
+    description: Bypass Perm
+  chat.msg:
+    default: true
+    description: MSG Chat Permission
+  chat.spy:
+    default: op
+    description: MSG Chat Permission
+commands:
+  chat:
+    description: Allgemeiner Chat Command
